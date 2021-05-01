@@ -1,0 +1,11 @@
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/libdotenvy-98c4da13c414ecf9.rmeta: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/errors.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/find.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/iter.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/parse.rs
+
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/libdotenvy-98c4da13c414ecf9.rlib: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/errors.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/find.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/iter.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/parse.rs
+
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/dotenvy-98c4da13c414ecf9.d: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/errors.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/find.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/iter.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/parse.rs
+
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/lib.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/errors.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/find.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/iter.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/parse.rs:

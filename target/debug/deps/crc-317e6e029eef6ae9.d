@@ -1,0 +1,11 @@
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/libcrc-317e6e029eef6ae9.rmeta: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc16.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc32.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc64.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc8.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/table.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/util.rs
+
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/crc-317e6e029eef6ae9.d: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc16.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc32.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc64.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc8.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/table.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/util.rs
+
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/lib.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc16.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc32.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc64.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/crc8.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/table.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc-2.1.0/src/util.rs:

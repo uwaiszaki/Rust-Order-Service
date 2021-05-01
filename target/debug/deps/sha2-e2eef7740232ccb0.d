@@ -1,0 +1,11 @@
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/libsha2-e2eef7740232ccb0.rmeta: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/core_api.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/consts.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/soft.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/soft.rs
+
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/sha2-e2eef7740232ccb0.d: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/core_api.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/consts.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/soft.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/soft.rs
+
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/lib.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/core_api.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/consts.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/soft.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/soft.rs:

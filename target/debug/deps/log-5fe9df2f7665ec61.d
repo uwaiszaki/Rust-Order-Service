@@ -1,0 +1,10 @@
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/liblog-5fe9df2f7665ec61.rmeta: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/liblog-5fe9df2f7665ec61.rlib: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/log-5fe9df2f7665ec61.d: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs:

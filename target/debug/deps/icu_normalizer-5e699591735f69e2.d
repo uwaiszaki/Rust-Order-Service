@@ -1,0 +1,9 @@
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/libicu_normalizer-5e699591735f69e2.rmeta: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/error.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/properties.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/provider.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/uts46.rs
+
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/icu_normalizer-5e699591735f69e2.d: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/error.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/properties.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/provider.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/uts46.rs
+
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/lib.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/error.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/properties.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/provider.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/uts46.rs:

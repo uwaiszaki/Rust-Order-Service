@@ -1,0 +1,10 @@
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/libgetrandom-10ca4432c0a74b07.rmeta: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error_impls.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util_libc.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/getentropy.rs
+
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/getrandom-10ca4432c0a74b07.d: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error_impls.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util_libc.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/getentropy.rs
+
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lib.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error_impls.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util_libc.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/getentropy.rs:

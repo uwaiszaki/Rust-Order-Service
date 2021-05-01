@@ -1,0 +1,20 @@
+{
+  "db_name": "PostgreSQL",
+  "query": "SELECT 1 + 1 AS total",
+  "describe": {
+    "columns": [
+      {
+        "ordinal": 0,
+        "name": "total",
+        "type_info": "Int4"
+      }
+    ],
+    "parameters": {
+      "Left": []
+    },
+    "nullable": [
+      null
+    ]
+  },
+  "hash": "7edc167622172514edd42585e6bc65e5f6b3e287e5cdab9760086a1e74f47bbe"
+}

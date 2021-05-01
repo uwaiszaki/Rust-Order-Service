@@ -1,0 +1,11 @@
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/libyaml_rust2-41c7748ea41f0baa.rmeta: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/char_traits.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/debug.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/emitter.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/parser.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/scanner.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/yaml.rs
+
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/yaml_rust2-41c7748ea41f0baa.d: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/char_traits.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/debug.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/emitter.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/parser.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/scanner.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/yaml.rs
+
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/lib.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/char_traits.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/debug.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/emitter.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/parser.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/scanner.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yaml-rust2-0.10.1/src/yaml.rs:

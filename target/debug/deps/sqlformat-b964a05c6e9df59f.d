@@ -1,0 +1,10 @@
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/libsqlformat-b964a05c6e9df59f.rmeta: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/formatter.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/indentation.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/inline_block.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/params.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/tokenizer.rs
+
+/Users/uwaiszaki/Downloads/projects/rust/test_project/target/debug/deps/sqlformat-b964a05c6e9df59f.d: /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/lib.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/formatter.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/indentation.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/inline_block.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/params.rs /Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/tokenizer.rs
+
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/lib.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/formatter.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/indentation.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/inline_block.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/params.rs:
+/Users/uwaiszaki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sqlformat-0.1.8/src/tokenizer.rs:

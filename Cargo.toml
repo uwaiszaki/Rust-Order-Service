@@ -1,0 +1,24 @@
+[package]
+name = "rust_app"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+hyper = { version = "0.14", features = ["full"] }
+axum = "0.4.8"
+tower-http = { version = "0.3", features = ["trace", "cors"] }
+tokio = { version = "1.6", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+chrono = { version = "0.4", features = ["serde"] }
+sqlx = { version = "0.5", features = ["postgres", "runtime-tokio-native-tls", "macros", "migrate", "uuid", "time", "chrono"] }
+jsonwebtoken = "7"
+uuid = { version = "0.8", features = ["serde", "v4"] }
+dotenv = "0.15"
+tracing = "0.1"
+tracing-subscriber = "0.2"
+thiserror = "1.0"
+anyhow = "1.0"
+config = "0.11"
+rand = "0.8"
+bcrypt = "0.12"

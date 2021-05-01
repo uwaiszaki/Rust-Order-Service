@@ -1,0 +1,1 @@
+fn({type error}, axum::extract::Path<Uuid>) -> impl std::future::Future<Output = Result<axum::Json<Order>, axum::http::StatusCode>> {order_handler::get_order}

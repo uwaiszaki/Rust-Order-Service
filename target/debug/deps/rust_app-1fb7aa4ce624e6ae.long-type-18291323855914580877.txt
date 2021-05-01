@@ -1,0 +1,1 @@
+fn(axum::extract::Path<u32>, State<AppState>) -> impl Future<Output = impl IntoResponse> {handler}

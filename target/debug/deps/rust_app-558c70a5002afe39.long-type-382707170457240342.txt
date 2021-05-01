@@ -1,0 +1,1 @@
+fn({type error}, {type error}) -> impl std::future::Future<Output = Result<axum::Json<Order>, {type error}>> {order_handler::get_order}

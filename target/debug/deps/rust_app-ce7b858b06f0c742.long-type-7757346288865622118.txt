@@ -1,0 +1,1 @@
+fn(Arc<AppState>) -> impl std::future::Future<Output = Result<axum::Json<Vec<User>>, axum::http::StatusCode>> {user_handler::get_all_users}

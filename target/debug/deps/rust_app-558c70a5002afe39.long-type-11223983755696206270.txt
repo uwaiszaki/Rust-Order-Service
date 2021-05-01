@@ -1,0 +1,1 @@
+fn(State<Arc<AppState>>, axum::Json<CreateOrderRequest>) -> impl std::future::Future<Output = Result<axum::Json<Order>, anyhow::Error>> {order_handler::create_order}

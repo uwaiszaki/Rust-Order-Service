@@ -1,0 +1,1 @@
+fn(Arc<AppState>, axum::extract::Path<i32>, axum::Json<UpdateUserRequest>) -> impl std::future::Future<Output = Result<axum::Json<User>, axum::http::StatusCode>> {user_handler::update_user}
