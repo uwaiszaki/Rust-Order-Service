@@ -1,0 +1,1 @@
+axum::middleware::FromFn<fn(RequestParts<_>, Next<_>) -> impl std::future::Future<Output = Result<Response<http_body::combinators::box_body::UnsyncBoxBody<axum::body::Bytes, axum::Error>>, axum::http::StatusCode>> {require_admin::<_>}, Route<_>>

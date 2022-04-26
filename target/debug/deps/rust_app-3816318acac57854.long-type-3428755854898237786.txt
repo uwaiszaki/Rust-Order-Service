@@ -1,0 +1,1 @@
+axum::middleware::FromFn<fn(AuthUser, axum::http::Request<_>) -> impl std::future::Future<Output = Result<axum::http::Request<_>, axum::http::StatusCode>> {require_admin::<_>}, Route<_>>

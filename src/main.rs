@@ -9,22 +9,28 @@ use app_config::get_config;
 use db::connect_db;
 use std::sync::Arc;
 use state::AppState;
-use handlers::{user_handler, order_handler};
-use tracing_subscriber::FmtSubscriber;
+use handlers::{user_handler, order_handler, auth_handler};
+use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 use tower_http::trace::TraceLayer;
-use axum::{Router, routing::{post, get, put}, http::StatusCode, extract::Extension};
+use axum::{
+    Router, 
+    routing::{post, get, put}, 
+    http::StatusCode, 
+    extract::Extension,
+    middleware,
+    response::Response,
+    http::Request,
+};
 use std::net::SocketAddr;
 
 #[tokio::main]
 async fn main() {
-    // Initialize tracing with more detailed configuration
-    let subscriber = FmtSubscriber::builder()
-        .with_max_level(tracing::Level::DEBUG)
-        .with_target(false)
-        .with_level(true)
-        .with_thread_ids(true)
-        .with_thread_names(true)
-        .pretty()
+    // Initialize tracing
+    tracing_subscriber::registry()
+        .with(tracing_subscriber::EnvFilter::new(
+            std::env::var("RUST_LOG").unwrap_or_else(|_| "info".into()),
+        ))
+        .with(tracing_subscriber::fmt::layer())
         .init();
 
     let config = get_config();
@@ -38,16 +44,14 @@ async fn main() {
             tracing::info!("Health check requested");
             (StatusCode::OK, "OK")
         }))
-        // .route("/users", get(user_handler::get_all_users))
+        .route("/auth/login", post(auth_handler::login))
+        .route("/admin/restricted", get(auth_handler::admin_only))
         .nest("/users", Router::new()
-            .route("/", post(user_handler::create_user))
-            .route("/", get(user_handler::get_all_users))
-            .route("/{id}", get(user_handler::get_user))
-            .route("/{id}", put(user_handler::update_user))
+            .route("/", get(user_handler::get_users).post(user_handler::create_user))
+            .route("/{id}", get(user_handler::get_user).put(user_handler::update_user))
         )
         .nest("/orders", Router::new()
-            .route("/", post(order_handler::create_order))
-            .route("/{id}", get(order_handler::get_order))
+            .route("/", get(order_handler::get_orders).post(order_handler::create_order))
             .route("/user/{id}", get(order_handler::get_user_orders))
         )
         .layer(Extension(app_state))

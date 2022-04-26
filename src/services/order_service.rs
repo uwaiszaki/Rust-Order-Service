@@ -1,34 +1,37 @@
 use crate::models::order::{CreateOrderRequest, Order};
+use crate::db::get_db;
 use anyhow::Result;
 use uuid::Uuid;
-use std::sync::Arc;
-use crate::state::AppState;
 
-pub async fn create_order(state: Arc<AppState>, order: CreateOrderRequest) -> Result<Order> {
+pub async fn create_order(order: CreateOrderRequest) -> Result<Order> {
+    let pool = get_db().await?;
     let order = sqlx::query_as!(
         Order,
-        "INSERT INTO orders (id, user_id, product_name, created_at) VALUES ($1, $2, $3, $4) RETURNING *",
-        Uuid::new_v4(),
+        "INSERT INTO orders (user_id, product_name) VALUES ($1, $2) RETURNING *",
         order.user_id,
-        order.product_name,
-        chrono::Utc::now()
+        order.product_name
     )
-    .fetch_one(&state.pool)
+    .fetch_one(&pool)
     .await?;
-
     Ok(order)
 }
 
-pub async fn get_order(state: Arc<AppState>, id: Uuid) -> Result<Order> {
-    let order = sqlx::query_as!(Order, "SELECT id, user_id, product_name, created_at FROM orders WHERE id = $1", id)
-        .fetch_one(&state.pool)
+pub async fn get_all_orders() -> Result<Vec<Order>> {
+    let pool = get_db().await?;
+    let orders = sqlx::query_as!(Order, "SELECT * FROM orders")
+        .fetch_all(&pool)
         .await?;
-    Ok(order)
+    Ok(orders)
 }
 
-pub async fn get_user_orders(state: Arc<AppState>, user_id: i32) -> Result<Vec<Order>> {
-    let orders = sqlx::query_as!(Order, "SELECT id, user_id, product_name, created_at FROM orders WHERE user_id = $1", user_id)
-        .fetch_all(&state.pool)
-        .await?;
+pub async fn get_user_orders(user_id: i32) -> Result<Vec<Order>> {
+    let pool = get_db().await?;
+    let orders = sqlx::query_as!(
+        Order,
+        "SELECT * FROM orders WHERE user_id = $1",
+        user_id
+    )
+    .fetch_all(&pool)
+    .await?;
     Ok(orders)
 }

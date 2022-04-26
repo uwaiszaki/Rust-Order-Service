@@ -7,8 +7,7 @@ use dotenv::dotenv;
 pub struct AppConfig {
     pub database_url: String,
     pub port: u16,
-    // pub jwt_secret: String,
-    // pub port: u16,
+    pub jwt_secret: String,
 }
 
 static INIT: Once = Once::new();
